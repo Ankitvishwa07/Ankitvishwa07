@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a second-year engineering student in Mumbai with a strong interest in web development.<br>Continuously improving my problem-solving skills through hands-on coding.<br><br>I have experience working with HTML, CSS, JavaScript, ReactJS, Git, GitHub .<br>I like exploring how modern web technologies come together to create scalable applications.<br><br>My goal is to grow as a full-stack developer, work on impactful projects, and secure a role at a good tech company during placements. <br>I’m always eager to learn, experiment, and take on new challenges that help me level up as a developer.
 
 
